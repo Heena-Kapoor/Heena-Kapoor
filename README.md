@@ -9,7 +9,7 @@ Results-driven Front-end web Developer with a strong foundation in front-end tec
 
 * 🌍  I'm based in Delhi,India
 * ✉️  You can contact me at [hkkapoor257@gmail.com](mailto:hkkapoor257@gmail.com)
-* 🚀  I'm currently working on [Ecommerce](http://github.com/TechPlek-Technologies/E-commerce)
+* 🚀  I'm currently working on Billing Web Application
 * 🧠  I'm learning Node.js
 
 ### Skills
