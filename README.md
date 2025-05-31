@@ -5,9 +5,9 @@
 Front-end Developer
 -------------------
 
-Results-driven Front-end web Developer with a strong foundation in front-end technologies. Proficient in HTML, CSS, JavaScript, TypeScript and popular framework like ReactJS. An enthusiastic learner with a passion for staying abreast of emerging web technologies and design trends. Skilled in building responsive, user-friendly websites and web applications. Adept at collaborating with cross-functional teams to deliver projects on time. Passionate about creating engaging digital experiences that drive user satisfaction and business growth.
+Results-driven Front-end web Developer with a strong foundation in front-end technologies. Proficient in HTML, CSS, JavaScript, TypeScript and popular framework like ReactJS and Next.js. An enthusiastic learner with a passion for staying abreast of emerging web technologies and design trends. Skilled in building responsive, user-friendly websites and web applications. Adept at collaborating with cross-functional teams to deliver projects on time. Passionate about creating engaging digital experiences that drive user satisfaction and business growth.
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="120" height="120"/>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="110" height="110"/>
 
 * 🌍  I'm based in Delhi,India
 * ✉️  You can contact me at [hkkapoor257@gmail.com](mailto:hkkapoor257@gmail.com)
