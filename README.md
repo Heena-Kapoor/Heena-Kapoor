@@ -43,6 +43,12 @@ Results-driven Front-end web Developer with a strong foundation in front-end tec
    <a href="mailto:hkkapoor257@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hkkapoor257@gmail.com" />
   </a>
+    <a href="https://heenakapoor-portfolio.vercel.app/" target="_blank">
+      <img 
+        src="https://img.shields.io/website?label=Heena%20Kapoor%20Portfolio&url=https%3A%2F%2Fheenakapoor-portfolio.vercel.app&style=for-the-badge&up_color=9FEF00" 
+        alt="Heena Kapoor Portfolio" 
+      />
+    </a>
 </p>
 
 ## ✨GitHub Stats  : 
