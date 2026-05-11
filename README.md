@@ -7,34 +7,39 @@ Front-end Developer
 
 Results-driven Front-end web Developer with a strong foundation in front-end technologies. Proficient in HTML, CSS, JavaScript, TypeScript and popular framework like ReactJS and Next.js. An enthusiastic learner with a passion for staying abreast of emerging web technologies and design trends. Skilled in building responsive, user-friendly websites and web applications. Adept at collaborating with cross-functional teams to deliver projects on time. Passionate about creating engaging digital experiences that drive user satisfaction and business growth.
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="110" height="110"/>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="90" height="100"/>
 
-* 🌍  I'm based in Delhi,India
-* ✉️  You can contact me at [hkkapoor257@gmail.com](mailto:hkkapoor257@gmail.com)
-* 🚀  I'm currently working on Billing Web Application
-* 🧠  I'm learning Node.js
+- 🌍 **Based In** — Delhi,India
+- ✉️ **Contact Me At** — [hkkapoor257@gmail.com](mailto:hkkapoor257@gmail.com)
+- 🧠 **Currently learning** — Node.js & backend development
+- 🤝 **Open to** — collaborations, open source contributions & freelance projects
 
-## 🌐 Languages and Tools :
+## 🌐 Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :
 
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" /></a>
-  <a href="https://devdocs.io/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" /></a>
-  <a href="https://devdocs.io/css/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" alt="Bootstrap" /></a>
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="50" height="50" alt="JQuery" /></a>
-    <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="50" height="50" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" /></a>
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50" alt="npm" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" /></a>
-  <a href="https://bitbucket.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50" alt="Bitbucket" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" /></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%23061D2F.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next_JS-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-%23DB7093.svg?style=flat&logo=styled-components&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=flat&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
 ## 💡 Connect with me :
 <p align="left"> 
